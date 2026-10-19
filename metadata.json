@@ -1,0 +1,6 @@
+{
+  "name": "CAPOLOT TIPS",
+  "description": "Professional football match predictions, VIP tips, statistics, HT/FT, overs/unders, and correct scores analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
